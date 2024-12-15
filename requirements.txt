@@ -1,0 +1,10 @@
+# Core dependencies
+RPi.GPIO>=0.7.0
+adafruit-blinka>=8.0.0
+adafruit-circuitpython-neopixel>=6.3.0
+adafruit-circuitpython-ds3231>=3.4.0
+pygame>=2.1.0
+requests>=2.28.0
+
+# Development dependencies
+python-dotenv>=0.19.0  # For managing environment variables (API keys) 
